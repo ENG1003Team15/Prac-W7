@@ -4,6 +4,10 @@ AIME WEFFER
 
 ANDY CHO
 
-MATT STURGEON
+MATT STURGEON :))))
  
+<<<<<<< HEAD
 REBECCA MUIR hello
+=======
+REBECCA MUIR :^)
+>>>>>>> origin/master
